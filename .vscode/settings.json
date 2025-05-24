@@ -1,0 +1,9 @@
+{
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "github.copilot.enable": {
+        "*": false
+    }
+}

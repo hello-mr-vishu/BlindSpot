@@ -3,7 +3,6 @@ pandas
 numpy
 pymongo
 certifi
-pymongo[srv]
 scikit-learn
 mlflow
 pyaml
@@ -12,5 +11,4 @@ fastapi
 uvicorn
 python-multipart
 
-
-##-e .  # Uncomment this line if you want to install the package in editable mode
+# -e .
