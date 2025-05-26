@@ -1,0 +1,22 @@
+🔎 BlindSpot
+Seeing what others miss.
+
+A machine learning-powered phishing detection system that identifies malicious websites by 
+analyzing hidden patterns in URLs and web metadata.
+BlindSpot aims to catch threats that traditional filters and users often overlook.
+
+Tech: Python, Scikit-learn, Feature Engineering, Supervised ML
+
+
+phishing detection project "BlindSpot" because it reflects the core goal of the system
+ — uncovering the hidden or overlooked threats that users typically miss. Just like how a blind spot
+  in driving is a place the driver can’t see but can be dangerous, phishing links and deceptive 
+  websites often hide in plain sight, bypassing human attention and even basic filters.
+
+The name also ties in conceptually with machine learning, which is designed to detect subtle 
+patterns and anomalies — essentially “seeing” into the user’s blind spot. 
+I wanted a name that’s metaphorical but clear, with a professional tone that reflects both 
+intelligence and vigilance. It’s short, memorable, and abstract enough to stand out in a portfolio 
+or GitHub list, without being too literal like “PhishDetector.”
+
+So in essence, BlindSpot isn’t just a name — it’s the very problem the project is solving.
