@@ -1,10 +1,10 @@
-from NetworkSecurity.exception.exception import NetworkSecurityException
-from NetworkSecurity.logging.logger import logging
+from networksecurity.exception.exception import NetworkSecurityException
+from networksecurity.logging.logger import logging
 
 
 # configuaration of the data Ingestion Config
-from NetworkSecurity.entity.config_entity import DataIngestionConfig
-from NetworkSecurity.entity.artifact_entity import DataIngestionArtifact
+from networksecurity.entity.config_entity import DataIngestionConfig
+from networksecurity.entity.artifact_entity import DataIngestionArtifact
 import os 
 import sys
 import pandas as pd
